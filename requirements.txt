@@ -1,0 +1,8 @@
+Gradio
+Langchain
+Langchain-community
+Chromadb
+pypdf
+Python-dotenv
+Ollama
+Sentence-Transformers
